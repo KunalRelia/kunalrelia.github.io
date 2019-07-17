@@ -1,16 +1,11 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Ph.D. Student
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+Currently, I’m a Ph.D. student at NYU Tandon School of Engineering, under the supervision of Prof. Julia Stoyanovich. I came to the beautiful - and very busy - city of New York in January 2015 to pursue a M.S. degree. More information coming soon!!
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+### Research
 
-What else do you need?
-
-### my history
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+To be honest, I just started working on the website. I'll update it soon!
