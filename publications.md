@@ -1,10 +1,8 @@
 ---
 layout: page
-title: Kunal Relia
-subtitle: Publications
+title: Publications
+subtitle: 
 ---
-
-### Publications
 
 Relia, K., Li, Z., Cook, S. H., & Chunara, R. (2019). Race, Ethnicity and National Origin-based Discrimination in Social Media and Hate Crimes Across 100 US Cities. In Proceedings of the Thirteenth International AAAI Conference on Web and Social Media (ICWSM-19).
 
