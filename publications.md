@@ -6,7 +6,8 @@ subtitle:
 
 #### 2019 
 
-**Relia, K.**, Li, Z., Cook, S. H., & Chunara, R.  Race, Ethnicity and National Origin-based Discrimination in Social Media and Hate Crimes Across 100 US Cities.  Thirteenth International AAAI Conference on Web and Social Media (ICWSM-19). [pdf](https://wvvw.aaai.org/ojs/index.php/ICWSM/article/download/3354/3222/)
+**Relia, K.**, Li, Z., Cook, S. H., & Chunara, R.<br/>
+Race, Ethnicity and National Origin-based Discrimination in Social Media and Hate Crimes Across 100 US Cities.  Thirteenth International AAAI Conference on Web and Social Media (ICWSM-19). [pdf](https://wvvw.aaai.org/ojs/index.php/ICWSM/article/download/3354/3222/)
 
 #### 2018
 
