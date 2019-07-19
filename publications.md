@@ -9,7 +9,7 @@ subtitle:
 Race, Ethnicity and National Origin-based Discrimination in Social Media and Hate Crimes Across 100 US Cities.<br/>
 ***Relia, K.**, Li, Z., Cook, S. H., & Chunara, R.* <br/>
 Thirteenth International AAAI Conference on Web and Social Media (ICWSM-19). [pdf](https://wvvw.aaai.org/ojs/index.php/ICWSM/article/download/3354/3222/)<br/>
-**Media** : *[Market Insider](https://markets.businessinsider.com/news/stocks/hate-speech-on-twitter-predicts-frequency-of-real-life-hate-crimes-1028302804), [Business Insider](https://www.businessinsider.my/twitter-racism-hate-speech-linked-real-life-hate-crimes-study-2019-6/), [VICE News](https://www.vice.com/en_us/article/d3njx7/cities-with-more-hateful-tweets-have-more-hate-crimes-study-finds), [The Register \[UK\]](https://www.theregister.co.uk/2019/06/26/twitter_racism/).*
+**Media** : *[Market Insider](https://markets.businessinsider.com/news/stocks/hate-speech-on-twitter-predicts-frequency-of-real-life-hate-crimes-1028302804), [Business Insider](https://www.businessinsider.my/twitter-racism-hate-speech-linked-real-life-hate-crimes-study-2019-6/), [VICE News](https://www.vice.com/en_us/article/d3njx7/cities-with-more-hateful-tweets-have-more-hate-crimes-study-finds), [The Register \[UK\]](https://www.theregister.co.uk/2019/06/26/twitter_racism/)*
 
 #### 2018
 
