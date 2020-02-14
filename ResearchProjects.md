@@ -29,7 +29,7 @@ Historically, neighborhoods have been defined using administrative boundaries li
 #### (Sep 2016 - Oct 2018) Filling User Timeline Using Sparse Social Media Data
 
 A stochastic framework for predicting individual level mobility timelines using sparse location data from social media. The framework utilizes individual and community mobility patterns and prioritizes the effect of location data closer in time, to make predictions. <br/>
-[ACM SigSPATIAL'18](https://dl.acm.org/citation.cfm?id=3274982)
+[ACM SIGSPATIAL'18](https://dl.acm.org/citation.cfm?id=3274982)
 
 #### (Jun 2016 - Dec 2016) Predicting Age and Gender of Social Media Users
 
