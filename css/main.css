@@ -264,7 +264,7 @@ footer {
   padding: 30px 0;
   border-top: 1px #EAEAEA solid;
   margin-top: 50px;
-  font-size: 10px;
+  font-size: 12px;
   background-color: {{ site.footer-col }};
   {% if site.footer-img %}
   background-image: url({{ site.footer-img | relative_url }});
@@ -299,10 +299,10 @@ footer .theme-by {
     padding: 50px 0;
   }
   footer .footer-links {
-    font-size: 10px;
+    font-size: 14px;
   }
   footer .copyright {
-    font-size: 10px;
+    font-size: 12px;
   }
 }
 
