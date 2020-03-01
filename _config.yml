@@ -22,6 +22,7 @@ description: Ph.D. Student and Graduate Research Assistant, New York University
 navbar-links:
   Publications: "publications"
   Research Projects: "ResearchProjects"
+  CV: "https://kunalrelia.github.io/CV.html"
   #About Me: "aboutme"
   #Resources:
   #  - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
