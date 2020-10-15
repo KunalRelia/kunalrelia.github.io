@@ -4,9 +4,9 @@ title: Publications
 subtitle: 
 ---
 
-### [C] : conference; [J] : journal; [P] : in-preparation; [S] : in-submission. 
+# [C] : conference; [J] : journal; [P] : in-preparation; [S] : in-submission. 
 
-### * : authors listed alphabetically.
+# * : authors listed alphabetically.
 
 **[P1\*]** On Representation of Multi-attribute Voters in Multiwinner Elections
 *Brill, M., Israel, J., **Relia, K.**, and Stoyanovich, J.*
