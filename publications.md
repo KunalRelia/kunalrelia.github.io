@@ -12,10 +12,10 @@ subtitle:
 *Brill, M., Israel, J., **Relia, K.**, and Stoyanovich, J.*
 
 **[S2\*]** *DiRe Committee*: <ins>Di</ins>versity and <ins>Re</ins>presentation Constraints in Multiwinner Elections. <br/>
-***Relia, K.**, and Stoyanovich,J.*
+***Relia, K.**, and Stoyanovich, J.*
 
 **[S1\*]** Algorithmic Techniques for Necessary and Possible Winners. <br/>
-*Chakraborty, V., Delemazure, T., Kimelfeld, B., Kolaitis, P., **Relia, K.**, and Stoyanovich,J.*
+*Chakraborty, V., Delemazure, T., Kimelfeld, B., Kolaitis, P., **Relia, K.**, and Stoyanovich, J.*
 
 **[C5]** Race, Ethnicity and National Origin-based Discrimination in Social Media and Hate Crimes Across 100 US Cities.<br/>
 ***Relia, K.**, Li, Z., Cook, S. H., & Chunara, R.* <br/>
