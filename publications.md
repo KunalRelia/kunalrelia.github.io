@@ -8,7 +8,7 @@ subtitle:
 
 ##### * : authors listed alphabetically.
 
-**[P1\*]** On Representation of Multi-attribute Voters in Multiwinner Elections
+**[P1\*]** On Representation of Multi-attribute Voters in Approval-based Multiwinner Elections.  <br/>
 *Brill, M., Israel, J., **Relia, K.**, and Stoyanovich, J.*
 
 **[S2\*]** *DiRe Committee*: <ins>Di</ins>versity and <ins>Re</ins>presentation Constraints in Multiwinner Elections. <br/>
