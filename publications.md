@@ -15,7 +15,8 @@ subtitle:
 ***Relia, K.**, and Stoyanovich, J.*
 
 **[S1\*]** Algorithmic Techniques for Necessary and Possible Winners. <br/>
-*Chakraborty, V., Delemazure, T., Kimelfeld, B., Kolaitis, P., **Relia, K.**, and Stoyanovich, J.*
+*Chakraborty, V., Delemazure, T., Kimelfeld, B., Kolaitis, P., **Relia, K.**, and Stoyanovich, J.* <br/>
+[pre-print](https://arxiv.org/pdf/2005.06779)
 
 **[C5]** Race, Ethnicity and National Origin-based Discrimination in Social Media and Hate Crimes Across 100 US Cities.<br/>
 ***Relia, K.**, Li, Z., Cook, S. H., & Chunara, R.* <br/>
