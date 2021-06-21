@@ -8,15 +8,15 @@ subtitle:
 
 ##### * : authors listed alphabetically.
 
-**[P1\*]** On Representation of Multi-attribute Voters in Approval-based Multiwinner Elections.  <br/>
+**[P2\*]** On Representation of Multi-attribute Voters in Approval-based Multiwinner Elections.  <br/>
 *Brill, M., Israel, J., **Relia, K.**, and Stoyanovich, J.*
 
-**[S2\*]** *DiRe Committee*: <ins>Di</ins>versity and <ins>Re</ins>presentation Constraints in Multiwinner Elections. <br/>
-***Relia, K.**, and Stoyanovich, J.*
+**[P1\*]** *DiRe Committee*: <ins>Di</ins>versity and <ins>Re</ins>presentation Constraints in Multiwinner Elections. <br/>
+***Relia, K.***
 
-**[S1\*]** Algorithmic Techniques for Necessary and Possible Winners. <br/>
+**[J1\*]** Algorithmic Techniques for Necessary and Possible Winners. <br/>
 *Chakraborty, V., Delemazure, T., Kimelfeld, B., Kolaitis, P., **Relia, K.**, and Stoyanovich, J.* <br/>
-[pre-print](https://arxiv.org/pdf/2005.06779)
+(To appear: ACM/IMS Transactions on Data Science) [pre-print](https://arxiv.org/pdf/2005.06779)
 
 **[C5]** Race, Ethnicity and National Origin-based Discrimination in Social Media and Hate Crimes Across 100 US Cities. <br/>
 ***Relia, K.**, Li, Z., Cook, S. H., & Chunara, R.* <br/>
