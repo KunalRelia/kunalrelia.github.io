@@ -16,12 +16,12 @@ On July 17, 2020, the CDC updated their list of illnesses that are risk factors
 Recent work in the study of fairness in multiwinner elections focuses on settings where candidates have attributes. However, voters may also be divided into predefined populations under one or more attributes (e.g., "California" and "Illinois" populations under the "state" attribute), which may be different from candidate attributes, and models that focus on candidate attributes alone may systematically under-represent smaller voter populations. Hence, we develop a model, DiRe Committee Winner Determination (DiReCWD), which delineates candidate and voter attributes and selects a committee (i) using diversity constraints to lower-bound the number of candidates selected from each candidate group, (ii) using representation constraints to lower-bound the number of candidates elected by each voter population, and (iii) maximizing the score of the committee subject to meeting the constraints.
 
 DiReCWD has the flexibility to specify diversity and representation constraints, and a voting rule, thus incorporating diverse committee winner determination and the apportionment problems as example special cases. We analyze the computational complexity of selecting a committee under DiReCWD, and study the inapproximability and parameterized complexity. We present an empirical analysis of feasibility and of the utility traded-off to satisfy the constraints. <br/>
-[in-submission]
+[in-preparation]
 
 #### (Jan 2019 - Present) Algorithmic Techniques for Necessary and Possible Winners
 
 We investigate the practical aspects of computing the necessary and possible winners in elections over incomplete voter preferences. In the case of the necessary winners, we show how to implement and accelerate the polynomial-time algorithm of Xia and Conitzer. In the case of the possible winners, where the problem is NP-hard, we give a natural reduction to Integer Linear Programming (ILP) for all positional scoring rules and implement it in a leading commercial optimization solver. Further, we devise optimization techniques to minimize the number of ILP executions and, oftentimes, avoid them altogether. We conduct a thorough experimental study that includes the construction of a rich benchmark of election data based on both real and synthetic data. Our experimental findings suggest that, the worst-case intractability of the possible winners notwithstanding, the algorithmic techniques presented here scale well and can be used to compute the possible winners in realistic scenarios.  <br/>
-[pre-print](https://arxiv.org/pdf/2005.06779)
+[pre-print](https://arxiv.org/pdf/2005.06779) (To appear: ACM/IMS Transactions on Data Science)
 
 #### (May 2018 - Jan 2019) Discrimination in Social Media and Hate Crimes Across 100 U.S. Cities
 
