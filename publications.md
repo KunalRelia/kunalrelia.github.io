@@ -12,7 +12,8 @@ subtitle:
 *Brill, M., Israel, J., **Relia, K.**, and Stoyanovich, J.*
 
 **[P1]** *DiRe Committee*: <ins>Di</ins>versity and <ins>Re</ins>presentation Constraints in Multiwinner Elections. <br/>
-***Relia, K.***
+***Relia, K.*** <br/>
+[pre-print](https://arxiv.org/pdf/2107.07356.pdf)
 
 **[J1\*]** Algorithmic Techniques for Necessary and Possible Winners. <br/>
 *Chakraborty, V., Delemazure, T., Kimelfeld, B., Kolaitis, P., **Relia, K.**, and Stoyanovich, J.* <br/>
