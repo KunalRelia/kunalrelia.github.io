@@ -3,20 +3,16 @@ layout: page
 title: Research Projects
 subtitle: 
 ---
+#### (Sep 2019 - Present) The *"Five Ws"* of Fairness in Multiwinner Elections
 
+Fairness has recently received particular attention from the computer science research community. However, context-specific uses of a complex term like "fairness" narrate an incomplete story, possibly doing more harm than good. For example, an unintended consequence of fair elections with respect to candidates can be unfairness to voters, and vice versa.
+
+Hence, we propose to move towards completing the story of fairness by answering the *Five Ws*, namely, the *Who, What, When, Where, Why,* and *How*, which have been used in fields like scientific research, politics, and journalism to ensure thoroughness of the work done. We use the context of multiwinner elections, also known as committee selection, and advance to formally answer each question by designing algorithmic frameworks and giving axiomatic guarantees wherever possible. Our initial results show that finding a committee under our framework is generally computationally hard, and, for such cases, we study the inapproximability and parameterized complexity of the problems. As part of our work, we show that efficient algorithms exist under some real-world assumptions, such as when preferences follow a particular kind of structure. In addition to theoretical results, we conduct extensive empirical analysis. Overall, through a series of investigations and using multiwinner elections as an example, we show that any "fair" system with an incomplete story can have adverse outcomes, and with an advent of automated decision systems in all fields, even a context-specific "fair" system can unknowingly impact millions of people negatively. Immediate action is required to ensure that algorithm designers understand the responsibility associated with the claim of "fairness".  The goal of this work is to move towards a more complete story in this important domain. <br/>
+[preprint 1](https://arxiv.org/pdf/2107.07356.pdf)
 
 #### (Apr 2020 - Present) Demographic, Social, and Physiological Vulnerabilities related to Development of COVID-19 Symptoms: A Prospective Digital Health Study
 
 On July 17, 2020, the CDC updated their list of illnesses that are risk factors for COVID-19. Factors with “strongest and most consistent evidence” include hypertension, heart disease, cancer, and obesity, and demographic vulnerabilities are age, sex, minority race, and low SES. Social and psychological factors like stress, discrimination, and depression are less examined but may be critical factors in the disease contagion processes. In this project, we examine (i) psychophysiological vulnerability factors related to developing COVID-19 symptoms, (ii) mitigating factors associated with reduced symptomatic features, and (iii) the effect of randomly assigning people to stressreduction techniques aimed at reducing blood pressure or a control group.  <br/>
-
-
-#### (Sep 2019 - Present) Diversity and Representation Constraints in Multiwinner Elections
-
-
-Recent work in the study of fairness in multiwinner elections focuses on settings where candidates have attributes. However, voters may also be divided into predefined populations under one or more attributes (e.g., "California" and "Illinois" populations under the "state" attribute), which may be different from candidate attributes, and models that focus on candidate attributes alone may systematically under-represent smaller voter populations. Hence, we develop a model, DiRe Committee Winner Determination (DiReCWD), which delineates candidate and voter attributes and selects a committee (i) using diversity constraints to lower-bound the number of candidates selected from each candidate group, (ii) using representation constraints to lower-bound the number of candidates elected by each voter population, and (iii) maximizing the score of the committee subject to meeting the constraints.
-
-DiReCWD has the flexibility to specify diversity and representation constraints, and a voting rule, thus incorporating diverse committee winner determination and the apportionment problems as example special cases. We analyze the computational complexity of selecting a committee under DiReCWD, and study the inapproximability and parameterized complexity. We present an empirical analysis of feasibility and of the utility traded-off to satisfy the constraints. <br/>
-[in-preparation]
 
 #### (Jan 2019 - Present) Algorithmic Techniques for Necessary and Possible Winners
 
