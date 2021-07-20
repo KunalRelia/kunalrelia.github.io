@@ -20,6 +20,7 @@ description: Ph.D. Student and Graduate Research Assistant, New York University
 
 # List of links in the navigation bar
 navbar-links:
+  Home: "https://kunalrelia.github.io"
   Research Projects: "ResearchProjects"
   Publications: "publications"
   CV: "https://kunalrelia.github.io/CV.html"
