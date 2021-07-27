@@ -17,7 +17,8 @@ On July 17, 2020, the CDC updated their list of illnesses that are risk factors
 #### (Jan 2019 - Present) Algorithmic Techniques for Necessary and Possible Winners
 
 We investigate the practical aspects of computing the necessary and possible winners in elections over incomplete voter preferences. In the case of the necessary winners, we show how to implement and accelerate the polynomial-time algorithm of Xia and Conitzer. In the case of the possible winners, where the problem is NP-hard, we give a natural reduction to Integer Linear Programming (ILP) for all positional scoring rules and implement it in a leading commercial optimization solver. Further, we devise optimization techniques to minimize the number of ILP executions and, oftentimes, avoid them altogether. We conduct a thorough experimental study that includes the construction of a rich benchmark of election data based on both real and synthetic data. Our experimental findings suggest that, the worst-case intractability of the possible winners notwithstanding, the algorithmic techniques presented here scale well and can be used to compute the possible winners in realistic scenarios.  <br/>
-[pre-print](https://arxiv.org/pdf/2005.06779) (To appear: ACM/IMS Transactions on Data Science)
+[ACM/IMS TDS'21](https://dl.acm.org/doi/10.1145/3458472) <br/>
+
 
 #### (May 2018 - Jan 2019) Discrimination in Social Media and Hate Crimes Across 100 U.S. Cities
 
