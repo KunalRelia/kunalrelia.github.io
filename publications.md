@@ -4,14 +4,14 @@ title: Publications
 subtitle: 
 ---
 
-##### [C] : conference; [J] : journal; [P] : in-preparation; [S] : in-submission. 
+##### [C] : conference; [J] : journal; [W] : working paper. 
 
 ##### * : authors listed alphabetically.
 
-**[P2\*]** On Representation of Multi-attribute Voters in Approval-based Multiwinner Elections.  <br/>
+**[W2\*]** On Representation of Multi-attribute Voters in Approval-based Multiwinner Elections.  <br/>
 *Brill, M., Israel, J., **Relia, K.**, and Stoyanovich, J.*
 
-**[P1]** *DiRe Committee*: <ins>Di</ins>versity and <ins>Re</ins>presentation Constraints in Multiwinner Elections. <br/>
+**[W1]** *DiRe Committee*: <ins>Di</ins>versity and <ins>Re</ins>presentation Constraints in Multiwinner Elections. <br/>
 ***Relia, K.*** <br/>
 [pre-print](https://arxiv.org/pdf/2107.07356.pdf)
 
