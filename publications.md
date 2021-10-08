@@ -8,7 +8,7 @@ subtitle:
 
 ##### * : authors listed alphabetically.
 
-**[W2\*]** Unfairness through Fairness: Mitigating Fairness Induced Disproportionality in Multiwinner Elections.  <br/>
+**[W2]** Unfairness through Fairness: Mitigating Fairness Induced Disproportionality in Multiwinner Elections.  <br/>
 **Relia, K.**<br/>
 under submission, 2021.
 
