@@ -8,12 +8,13 @@ subtitle:
 
 ##### * : authors listed alphabetically.
 
-**[W2\*]** On Representation of Multi-attribute Voters in Approval-based Multiwinner Elections.  <br/>
-*Brill, M., Israel, J., **Relia, K.**, and Stoyanovich, J.*
+**[W2\*]** Unfairness through Fairness: Mitigating Fairness Induced Disproportionality in Multiwinner Elections.  <br/>
+**Relia, K.**<br/>
+under submission, 2021.
 
-**[W1]** *DiRe Committee*: <ins>Di</ins>versity and <ins>Re</ins>presentation Constraints in Multiwinner Elections. <br/>
+**[W1]** *DiRe Committee*: Diversity and Representation Constraints in Multiwinner Elections. <br/>
 ***Relia, K.*** <br/>
-[pre-print](https://arxiv.org/pdf/2107.07356.pdf)
+[pre-print](https://arxiv.org/pdf/2107.07356.pdf), under submission, 2021.
 
 **[J1\*]** Algorithmic Techniques for Necessary and Possible Winners. <br/>
 *Chakraborty, V., Delemazure, T., Kimelfeld, B., Kolaitis, P., **Relia, K.**, and Stoyanovich, J.* <br/>
