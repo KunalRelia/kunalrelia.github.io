@@ -1,7 +1,7 @@
 ---
 layout: page
-title: DiRe Research Universe
-subtitle: DRU
+title: DRU
+subtitle: DiRe Research Universe
 ---
 
 
