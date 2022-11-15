@@ -19,14 +19,15 @@ subtitle: D.R.U.
 
 **[1]** *DiRe Committee*: Diversity and Representation Constraints in Multiwinner Elections. <br/>
 ***Relia, K.*** <br/>
-[pre-print](https://arxiv.org/pdf/2107.07356.pdf), under submission, 2021.
-ACM/IMS Transactions on Data Science 2, no. 3 (2021): 1-23. [link](https://dl.acm.org/doi/10.1145/3458472)
+Proceedings of the Thirty-First International Joint Conference on Artificial Intelligence, IJCAI-22. [link](https://doi.org/10.24963/ijcai.2022/714)
 
 **[2]** Fairly Allocating Utility in Constrained Multiwinner Elections.  <br/>
 ***Relia, K.*** <br/>
+[pre-print](https://arxiv.org/pdf/2107.07356.pdf), 2022.
 
-**[3]** Fairly Allocating Utility in Constrained Multiwinner Elections.  <br/>
+**[3]** On the Complexity of Finding a Diverse and Representative Committee using a Monotone, Separable Positional Multiwinner Voting Rule.  <br/>
 ***Relia, K.*** <br/>
+[pre-print](https://arxiv.org/pdf/2107.07356.pdf), 2022.
 
 **[4]** Next paper coming soon in arXiv near you! <br/>
 AY 2023-24
@@ -34,4 +35,6 @@ AY 2023-24
 
 
 ## Acknowledgement
-The universe was produced by (a.k.a. research was generously supported by) Julia Stoyanovich’s NSF grants. <sup><sub>(Any opinions, findings, and conclusions or recommendations expressed in this material are those of the author(s) and do not necessarily reflect the views of the National Science Foundation.)</sub></sup>
+The universe was produced by (a.k.a. research was generously supported by) Julia Stoyanovich’s NSF grants. 
+
+<sup><sub>(Any opinions, findings, and conclusions or recommendations expressed in this material are those of the author(s) and do not necessarily reflect the views of the National Science Foundation.)</sub></sup>
