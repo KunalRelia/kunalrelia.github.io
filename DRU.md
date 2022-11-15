@@ -8,10 +8,8 @@ subtitle: D.R.U.
 <sup><sub>Disclaimer: Any similarity or resemblance of the project’s name to a certain cinematic universe is purely non-coincidental. 
   That said, I personally have no idea about what goes on in MCU. 
   I use this analogy to stress that research can be as fun as watching a MCU movie (assuming most people love the latter). 
-  Working and fun may not be orthogonal.</sub></sup>
-##### [C] : conference; [J] : journal; [W] : working paper. 
+  </sub></sup>
 
-##### * : authors listed alphabetically.
 
 
 
