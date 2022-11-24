@@ -8,12 +8,17 @@ subtitle:
 
 ##### * : authors listed alphabetically.
 
-**[W2]** Mitigating Fairness Induced Disproportionality in Multiwinner Elections.  <br/>
-**Relia, K.**<br/>
-
-**[W1]** *DiRe Committee*: Diversity and Representation Constraints in Multiwinner Elections. <br/>
+**[W2]** On the Complexity of Finding a Diverse and Representative Committee using a Monotone, Separable Positional Multiwinner Voting Rule.  <br/>
 ***Relia, K.*** <br/>
-[pre-print](https://arxiv.org/pdf/2107.07356.pdf), under submission, 2021.
+Working paper, 2022. [pre-print](https://arxiv.org/pdf/2211.13217.pdf)
+
+**[W1]** Fairly Allocating Utility in Constrained Multiwinner Elections.  <br/>
+***Relia, K.*** <br/>
+Working paper, 2022. [pre-print](https://arxiv.org/pdf/2211.12820.pdf)
+
+**[C6]** *DiRe Committee*: Diversity and Representation Constraints in Multiwinner Elections. <br/>
+***Relia, K.*** <br/>
+Proceedings of the Thirty-First International Joint Conference on Artificial Intelligence, IJCAI-22. [link](https://doi.org/10.24963/ijcai.2022/714), [pre-print](https://arxiv.org/pdf/2107.07356.pdf)
 
 **[J1\*]** Algorithmic Techniques for Necessary and Possible Winners. <br/>
 *Chakraborty, V., Delemazure, T., Kimelfeld, B., Kolaitis, P., **Relia, K.**, and Stoyanovich, J.* <br/>
