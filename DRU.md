@@ -7,7 +7,7 @@ subtitle: D.R.U.
 
 <sup><sub>Disclaimer: Any similarity or resemblance of the project’s name to a certain cinematic universe is purely non-coincidental. 
   That said, I personally have no idea about what goes on in MCU. 
-  I use this analogy to stress that research is as fun as watching a MCU movie (assuming most people love the latter). 
+  I use this analogy to stress that research is as fun as watching an MCU movie (assuming most people love the latter). 
   </sub></sup>
 
 
