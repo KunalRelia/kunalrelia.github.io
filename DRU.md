@@ -21,13 +21,13 @@ Proceedings of the Thirty-First International Joint Conference on Artificial Int
 
 **[2]** Fairly Allocating Utility in Constrained Multiwinner Elections.  <br/>
 ***Relia, K.*** <br/>
-Working paper, 2022. [pre-print](https://arxiv.org/pdf/2107.07356.pdf)
+Working paper, 2022. [pre-print](https://arxiv.org/pdf/2211.12820.pdf)
 
 **[3]** On the Complexity of Finding a Diverse and Representative Committee using a Monotone, Separable Positional Multiwinner Voting Rule.  <br/>
 ***Relia, K.*** <br/>
-Working paper, 2022. [pre-print](https://arxiv.org/pdf/2107.07356.pdf)
+Working paper, 2022. [pre-print](https://arxiv.org/pdf/2211.13217.pdf) (Some random musing)
 
-**[4]** Next paper coming soon in arXiv near you! <br/>
+**[4]** Next preprint coming soon in arXiv near you! <br/>
 AY 2023-24
 
 
