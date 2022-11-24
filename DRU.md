@@ -11,7 +11,7 @@ subtitle: D.R.U.
   </sub></sup>
 
 
-The DiRe Research Universe (DiRe - Diversity and Representation) is a research project that uses insights from theoretical computer science to delineate the notions of diversity and representation. Currently, the project focuses on understanding the key differences between diversity and representation in the context of multiwinner elections with a vision to extrapolate the understanding in a more general setting. Specifically, on the surface, diversity and representation in multiwinner elections may seem mathematically equivalent just like the vertex cover problem on $d$-regular hypergraphs and on $k$-uniform hypergraphs, respectively. However, on zooming in, these are as different as the vertex cover problem on $d$-regular hypergraphs and on $k$-uniform hypergraphs, respectively. 
+The DiRe Research Universe (DiRe - Diversity and Representation) is a research project that uses insights from theoretical computer science to delineate the notions of diversity and representation. Currently, the project focuses on understanding the key differences between diversity and representation in the context of multiwinner elections with a vision to extrapolate the understanding in a more general setting. Specifically, on the surface, diversity and representation in multiwinner elections may seem mathematically equivalent just like the vertex cover problem on *d*-regular hypergraphs and on *k*-uniform hypergraphs, respectively. However, on zooming in, these are as different as the vertex cover problem on *d*-regular hypergraphs and on *k*-uniform hypergraphs, respectively. 
 
 At a high level, DRU extends the DiRe committee paper [1] from two perspectives: theoretical and fairness. The former aims to study the existence of DiRe outcomes and its corresponding complexity (read: is finding a diverse *and* representative outcome (of a certain size) PPAD( or PPA)-complete (under certain realistic assumptions)?), and the latter aims to showcase the systemic unfairness that may be caused by a diverse and representative outcome. 
 
@@ -31,7 +31,7 @@ Working paper, 2022. [pre-print](https://arxiv.org/pdf/2211.12820.pdf)
 
 **[3]** On the Complexity of Finding a Diverse and Representative Committee using a Monotone, Separable Positional Multiwinner Voting Rule.  <br/>
 ***Relia, K.*** <br/>
-Working paper, 2022. [pre-print](https://arxiv.org/pdf/2211.13217.pdf) (Some random musing)
+Working paper, 2022. [pre-print](https://arxiv.org/pdf/2211.13217.pdf) (Some random musing - forthcoming)
 
 **[4]** Next preprint coming soon in arXiv near you! <br/>
 AY 2023-24
