@@ -6,8 +6,8 @@ subtitle: D.R.U.
 
 
 <sup><sub>Disclaimer: Any similarity or resemblance of the project’s name to a certain cinematic universe is purely non-coincidental. 
-  That said, I personally have no idea about what goes on in MCU. 
-  I use this analogy to stress that research is as fun as watching an MCU movie (assuming most people love the latter). 
+  That said, I acknowledge that I personally have no idea about what goes on in MCU or DCU. 
+  I use this analogy to stress that research is as fun as watching an DCU or MCU movie (assuming most people love watching such movies). 
   </sub></sup>
 
 
@@ -40,6 +40,6 @@ AY 2023-24
 
 
 ## Acknowledgement
-The universe was produced by (a.k.a. research was generously supported by) Julia Stoyanovich’s NSF grants. 
+The universe was co-produced by (a.k.a. research was generously co-supported by) Julia Stoyanovich’s NSF grants. 
 
 <sup><sub>(Any opinions, findings, and conclusions or recommendations expressed in this material are those of the author(s) and do not necessarily reflect the views of the National Science Foundation or the PI.)</sub></sup>
