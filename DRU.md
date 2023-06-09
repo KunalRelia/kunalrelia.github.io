@@ -25,17 +25,21 @@ The need to reduce inequality is ubiquitous. At least three of the United Nation
 ---
 The evolution of DRU can be classified into the following phases.
 
-#### 1.1 Phase One 
-The DiRe committee paper [1], initially planned as a standalone release, eventually led to the creation of DRU and hence, constitutes the Phase One! In this paper, we motivated the need for constraints for candidate groups *and* voter populations.
+#### 1.1 Phase One - The Ideation
+The DiRe committee paper [1], initially planned as a standalone release, eventually led to the creation of DRU and hence, constitutes the Phase One. In this paper, we motivated the need for constraints on selection of committee members from candidate groups *and* voter populations. This use of constraints eventually resulted in the delineation between diversity and representation.  
 
-#### 1.2 Phase Two 
-At a high level, Phase Two of DRU extends the DiRe committee paper [1] from two perspectives: fairness [2] and theoretical [3]. The former aims to showcase the systematic unfairness that may be caused by a diverse and representative outcome, and the latter aims to study the existence of DiRe outcomes and its corresponding complexity (read: is finding a diverse *and* representative outcome (of a certain size) PPAD( or PPA)-complete (under certain realistic assumptions)?). Specifically, the latter is achieved by establishing an equivalence between DiRe Committees and the vertex cover problem.
+#### 1.2 Phase Two - The Realizaton
+At a high level, Phase Two of DRU extends the DiRe committee paper [1] from two perspectives: fairness [2] and theoretical [3]. The former aims to showcase the systematic unfairness that may be caused by a diverse and representative outcome, and the latter aims to study the existence of DiRe outcomes and its corresponding complexity (read: is finding a diverse *and* representative outcome (of a certain size) PPAD( or PPA)-complete (under certain realistic assumptions)?). Moreover, an interesting consequence of the latter aim is the establishment of an equivalence between DiRe Committees and the vertex cover problem.
 
-#### 1.3 Phase Three
-[to be added]
+#### 1.3 Phase Three - The Result
+Having established the relationship between DiRe Committees and the vertex cover problem in Phase Two, DRU now evolves towards exploiting this relationship to overcome barriers that delay our progress in reaching the goal of finding DiRe committees and broadly, reducing inequality. 
 
-#### 1.4 Phase ZERO 
-While the work on Phase Three nears its completion, DRU's fourth phase, being labeled as Phase ZERO, is already in the pipeline. Releasing the papers in the previous phases was like putting cart before the horse. Hence, Phase ZERO, like a prequel, will propose a theory, which is probably one of the reasons why DRU exists. Stay tuned for more details!
+Specifically, what sort of barriers are we talking about? How can we overcome such barriers? Does a solution here have an impact on domains not related to reducing inequality? The upcoming release [4] tries to answer these and more such questions.
+
+#### 1.4 Phase ZERO - The Origin
+While the work on Phase Three nears its completion, DRU's fourth phase, being labeled as Phase ZERO, is already in the pipeline. Releasing the papers in the previous phases was like putting cart before the horse. Hence, Phase ZERO, like a prequel, will propose a theory (with potentially some empirical backing, if needed). This theory is probably one of the reasons why DRU exists. 
+
+Paper is slated for release in AY 2025-26. Stay tuned for updates!
 
 ---
 ## 2. Releases
@@ -53,8 +57,9 @@ Pre-print, 2022. [link](https://arxiv.org/pdf/2211.12820.pdf)
 ***Relia, K.*** <br/>
 Pre-print, 2022. [link](https://arxiv.org/pdf/2211.13217.pdf)
 
-**[4]** Next preprint coming soon in arXiv near you! <br/>
-
+**[4]** On Efficient Computation of DiRe Committees. <br/>
+***Relia, K.*** <br/>
+Pre-print coming soon in repo near you! <br/>
 
 ---
 ## 3. Acknowledgement
