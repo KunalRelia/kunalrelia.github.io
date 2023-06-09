@@ -31,7 +31,7 @@ The DiRe committee paper [1], initially planned as a standalone release, eventua
 #### 1.2 Phase Two - The Realization
 At a high level, Phase Two of DRU extends the DiRe committee paper [1] from two perspectives: fairness [2] and theoretical [3]. The former aims to showcase the systematic unfairness that may be caused by a diverse and representative outcome, and the latter aims to study the existence of DiRe outcomes and its corresponding complexity (read: is finding a diverse *and* representative outcome (of a certain size) PPAD( or PPA)-complete (under certain realistic assumptions)?). Moreover, an interesting consequence of the latter aim is the establishment of an equivalence between DiRe Committees and the vertex cover problem.
 
-#### 1.3 Phase Three - The Result
+#### 1.3 Phase Three - A Result
 Having established the relationship between DiRe Committees and the vertex cover problem in Phase Two, DRU now evolves towards exploiting this relationship to overcome barriers that delay our progress in reaching the goal of finding DiRe committees and broadly, reducing inequality. 
 
 Specifically, what sort of barriers are we talking about? How can we overcome such barriers? Does a solution here have an impact on domains not related to reducing inequality? The upcoming release [4] tries to answer these and more such questions.
