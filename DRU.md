@@ -37,6 +37,7 @@ At a high level, Phase Two of DRU extends the DiRe committee paper [1] from two 
 #### 1.4 Phase ZERO 
 While the work on Phase Three nears its completion, DRU's fourth phase, being labeled as Phase ZERO, is already in the pipeline. Releasing the papers in the previous phases was like putting cart before the horse. Hence, Phase ZERO, like a prequel, will propose a theory, which is probably one of the reasons why DRU exists. Stay tuned for more details!
 
+---
 ## 2. Releases
 ---
 
@@ -57,6 +58,7 @@ Pre-print, 2022. [link](https://arxiv.org/pdf/2211.13217.pdf)
 
 ---
 ## 3. Acknowledgement
+---
 The universe was co-produced by (a.k.a. research was generously co-supported by) Julia Stoyanovich’s NSF grants. 
 
 <sup><sub>(Any opinions, findings, and conclusions or recommendations expressed in this material are those of the author(s) and do not necessarily reflect the views of the National Science Foundation or the PI.)</sub></sup>
