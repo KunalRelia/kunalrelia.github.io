@@ -7,18 +7,33 @@ subtitle: D.R.U.
 
 <sup><sub>Disclaimer: Any similarity or resemblance of the project’s name to a certain cinematic universe is purely non-coincidental. 
   That said, I acknowledge that I personally have no idea about what goes on in MCU or DCU. 
-  I use this analogy to stress that research is as fun as watching a DCU or an MCU movie (assuming most people love watching such movies). 
+  I use this analogy to stress that research is as fun as watching a DCU or an MCU movie (assuming most people love watching these movies). 
   </sub></sup>
 
 
-The DiRe Research Universe (DiRe - Diversity and Representation) is a research project that uses insights from theoretical computer science to delineate the notions of diversity and representation. Currently, the project focuses on understanding the key differences between diversity and representation in the context of multiwinner elections. Specifically, on the surface, diversity and representation in multiwinner elections may seem mathematically equivalent just like the vertex cover problem on *d*-regular hypergraphs and on *k*-uniform hypergraphs, respectively. However, on zooming in, these are as different as the vertex cover problem on *d*-regular hypergraphs and on *k*-uniform hypergraphs, respectively. The vision is to extrapolate this understanding to a more general setting.
+The DiRe Research Universe (DiRe - Diversity and Representation) is a research project that uses insights from theoretical computer science to delineate the notions of diversity and representation. Currently, the project focuses on understanding the key differences between diversity and representation in the context of multiwinner elections. Specifically, we observe that:
+* just like correlation does not imply causation, diversity does not imply representation (and vice-versa).
+* on the surface, diversity and representation in multiwinner elections may seem mathematically equivalent just like the vertex cover problem on *d*-regular hypergraphs and on *k*-uniform hypergraphs, respectively. However, on zooming in, these are as different as the vertex cover problem on *d*-regular hypergraphs and on *k*-uniform hypergraphs, respectively. 
 
-#### What does DRU currently encompass?
-At a high level, DRU extends the DiRe committee paper [1] from two perspectives: fairness and theoretical. The former aims to showcase the systematic unfairness that may be caused by a diverse and representative outcome, and the latter aims to study the existence of DiRe outcomes and its corresponding complexity (read: is finding a diverse *and* representative outcome (of a certain size) PPAD( or PPA)-complete (under certain realistic assumptions)?).
-
+Overall, the vision is to extrapolate this understanding to a more general setting.
 
 #### Why care about DRU?
 The need to reduce inequality is ubiquitous. At least three of the United Nations’ Sustainable Development Goals directly focus on this aim. However, the incorrect conflation of diversity and representation may be doing more harm than good. For instance, a [paper](https://www.nature.com/articles/s41586-021-03788-6) published in Nature and a [resolution](https://www.brown.senate.gov/newsroom/press/release/brown-portman-introduce-rooney-rule-resolution-to-increase-minority-representation-in-the-private-sector) presented in the United States Senate incorrectly conflate these two terms. Hence, in the pursuit to reduce inequality, DRU intends to highlight the importance of delineating diversity and representation. Overall, if you care about reducing inequality or fair AI or responsible AI, this universe will interest you. (If you are a technical geek, it may be an added reason!!)
+
+## Development
+The evolution of DRU can be classified into the following phases.
+
+#### Phase One 
+The DiRe committee paper [1], initially planned as a standalone release, eventually led to the creation of DRU and hence, constitutes the Phase One! In this paper, we motivated the need for constraints for candidate groups *and* voter populations.
+
+#### Phase Two 
+At a high level, Phase Two of DRU extends the DiRe committee paper [1] from two perspectives: fairness [2] and theoretical [3]. The former aims to showcase the systematic unfairness that may be caused by a diverse and representative outcome, and the latter aims to study the existence of DiRe outcomes and its corresponding complexity (read: is finding a diverse *and* representative outcome (of a certain size) PPAD( or PPA)-complete (under certain realistic assumptions)?). Specifically, the latter is achieved by establishing an equivalence between DiRe Committees and the vertex cover problem.
+
+#### Phase Three
+[to be added]
+
+#### Phase ZERO 
+While the work on Phase Three nears its completion, DRU's fourth phase, being labeled as Phase ZERO, is already in the pipeline. Releasing the papers in the previous phases was like putting cart before the horse. Hence, Phase ZERO, like a prequel, will propose a theory, which is probably one of the reasons why DRU exists. Stay tuned for more details!
 
 ## Releases
 
@@ -28,14 +43,13 @@ Proceedings of the Thirty-First International Joint Conference on Artificial Int
 
 **[2]** Fairly Allocating Utility in Constrained Multiwinner Elections.  <br/>
 ***Relia, K.*** <br/>
-Working paper, 2022. [pre-print](https://arxiv.org/pdf/2211.12820.pdf)
+Pre-print, 2022. [link](https://arxiv.org/pdf/2211.12820.pdf)
 
 **[3]** On the Complexity of Finding a Diverse and Representative Committee using a Monotone, Separable Positional Multiwinner Voting Rule.  <br/>
 ***Relia, K.*** <br/>
-Working paper, 2022. [pre-print](https://arxiv.org/pdf/2211.13217.pdf) (Some random musing - forthcoming)
+Pre-print, 2022. [link](https://arxiv.org/pdf/2211.13217.pdf)
 
 **[4]** Next preprint coming soon in arXiv near you! <br/>
-AY 2023-24
 
 
 
