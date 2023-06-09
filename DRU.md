@@ -28,7 +28,7 @@ The evolution of DRU can be classified into the following phases.
 #### 1.1 Phase One - The Ideation
 The DiRe committee paper [1], initially planned as a standalone release, eventually led to the creation of DRU and hence, constitutes the Phase One. In this paper, we motivated the need for constraints on selection of committee members from candidate groups *and* voter populations. This use of constraints eventually resulted in the delineation between diversity and representation.  
 
-#### 1.2 Phase Two - The Realizaton
+#### 1.2 Phase Two - The Realization
 At a high level, Phase Two of DRU extends the DiRe committee paper [1] from two perspectives: fairness [2] and theoretical [3]. The former aims to showcase the systematic unfairness that may be caused by a diverse and representative outcome, and the latter aims to study the existence of DiRe outcomes and its corresponding complexity (read: is finding a diverse *and* representative outcome (of a certain size) PPAD( or PPA)-complete (under certain realistic assumptions)?). Moreover, an interesting consequence of the latter aim is the establishment of an equivalence between DiRe Committees and the vertex cover problem.
 
 #### 1.3 Phase Three - The Result
@@ -37,7 +37,7 @@ Having established the relationship between DiRe Committees and the vertex cover
 Specifically, what sort of barriers are we talking about? How can we overcome such barriers? Does a solution here have an impact on domains not related to reducing inequality? The upcoming release [4] tries to answer these and more such questions.
 
 #### 1.4 Phase ZERO - The Origin
-While the work on Phase Three nears its completion, DRU's fourth phase, being labeled as Phase ZERO, is already in the pipeline. Releasing the papers in the previous phases was like putting cart before the horse. Hence, Phase ZERO, like a prequel, will propose a theory (with potentially some empirical backing, if needed). This theory is probably one of the reasons why DRU exists. Stay tuned for updates!
+While the work on Phase Three nears its completion, DRU's fourth phase, being labeled as Phase ZERO, is already in the pipeline. Releasing the papers in the previous phases was putting cart before the horse. Hence, Phase ZERO, a prequel, will propose a theory (with potentially some empirical backing, if needed) to highlight one of the possible reasons why DRU exists. Stay tuned for updates!
 
 ---
 ## 2. Releases
