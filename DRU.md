@@ -20,22 +20,25 @@ Overall, the vision is to extrapolate this understanding to a more general setti
 #### Why care about DRU?
 The need to reduce inequality is ubiquitous. At least three of the United Nations’ Sustainable Development Goals directly focus on this aim. However, the incorrect conflation of diversity and representation may be doing more harm than good. For instance, a [paper](https://www.nature.com/articles/s41586-021-03788-6) published in Nature and a [resolution](https://www.brown.senate.gov/newsroom/press/release/brown-portman-introduce-rooney-rule-resolution-to-increase-minority-representation-in-the-private-sector) presented in the United States Senate incorrectly conflate these two terms. Hence, in the pursuit to reduce inequality, DRU intends to highlight the importance of delineating diversity and representation. Overall, if you care about reducing inequality or fair AI or responsible AI, this universe will interest you. (If you are a technical geek, it may be an added reason!!)
 
-## Development
+---
+## 1. Development
+---
 The evolution of DRU can be classified into the following phases.
 
-#### Phase One 
+#### 1.1 Phase One 
 The DiRe committee paper [1], initially planned as a standalone release, eventually led to the creation of DRU and hence, constitutes the Phase One! In this paper, we motivated the need for constraints for candidate groups *and* voter populations.
 
-#### Phase Two 
+#### 1.2 Phase Two 
 At a high level, Phase Two of DRU extends the DiRe committee paper [1] from two perspectives: fairness [2] and theoretical [3]. The former aims to showcase the systematic unfairness that may be caused by a diverse and representative outcome, and the latter aims to study the existence of DiRe outcomes and its corresponding complexity (read: is finding a diverse *and* representative outcome (of a certain size) PPAD( or PPA)-complete (under certain realistic assumptions)?). Specifically, the latter is achieved by establishing an equivalence between DiRe Committees and the vertex cover problem.
 
-#### Phase Three
+#### 1.3 Phase Three
 [to be added]
 
-#### Phase ZERO 
+#### 1.4 Phase ZERO 
 While the work on Phase Three nears its completion, DRU's fourth phase, being labeled as Phase ZERO, is already in the pipeline. Releasing the papers in the previous phases was like putting cart before the horse. Hence, Phase ZERO, like a prequel, will propose a theory, which is probably one of the reasons why DRU exists. Stay tuned for more details!
 
-## Releases
+## 2. Releases
+---
 
 **[1]** *DiRe Committee*: Diversity and Representation Constraints in Multiwinner Elections. <br/>
 ***Relia, K.*** <br/>
@@ -52,8 +55,8 @@ Pre-print, 2022. [link](https://arxiv.org/pdf/2211.13217.pdf)
 **[4]** Next preprint coming soon in arXiv near you! <br/>
 
 
-
-## Acknowledgement
+---
+## 3. Acknowledgement
 The universe was co-produced by (a.k.a. research was generously co-supported by) Julia Stoyanovich’s NSF grants. 
 
 <sup><sub>(Any opinions, findings, and conclusions or recommendations expressed in this material are those of the author(s) and do not necessarily reflect the views of the National Science Foundation or the PI.)</sub></sup>
