@@ -37,9 +37,7 @@ Having established the relationship between DiRe Committees and the vertex cover
 Specifically, what sort of barriers are we talking about? How can we overcome such barriers? Does a solution here have an impact on domains not related to reducing inequality? The upcoming release [4] tries to answer these and more such questions.
 
 #### 1.4 Phase ZERO - The Origin
-While the work on Phase Three nears its completion, DRU's fourth phase, being labeled as Phase ZERO, is already in the pipeline. Releasing the papers in the previous phases was like putting cart before the horse. Hence, Phase ZERO, like a prequel, will propose a theory (with potentially some empirical backing, if needed). This theory is probably one of the reasons why DRU exists. 
-
-Paper is slated for release in AY 2025-26. Stay tuned for updates!
+While the work on Phase Three nears its completion, DRU's fourth phase, being labeled as Phase ZERO, is already in the pipeline. Releasing the papers in the previous phases was like putting cart before the horse. Hence, Phase ZERO, like a prequel, will propose a theory (with potentially some empirical backing, if needed). This theory is probably one of the reasons why DRU exists. Stay tuned for updates!
 
 ---
 ## 2. Releases
