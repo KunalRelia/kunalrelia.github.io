@@ -62,7 +62,6 @@ Pre-print, 2022. [link](https://arxiv.org/pdf/2211.13217.pdf)
 Pre-print coming soon in repo near you! <br/>
 
 **[5]** Unnamed Phase ZERO release. <br/>
-Pre-print coming in a repo near you! <br/>
 AY 2025-26
 
 ---
