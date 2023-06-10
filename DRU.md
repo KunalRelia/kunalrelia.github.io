@@ -11,11 +11,11 @@ subtitle: D.R.U.
   </sub></sup>
 
 
-The DiRe Research Universe (DiRe - Diversity and Representation) is a research project that uses insights from theoretical computer science to delineate the notions of diversity and representation. Currently, the project focuses on understanding the key differences between diversity and representation in the context of multiwinner elections. Specifically, we observe that:
+The DiRe Research Universe (DiRe - Diversity and Representation) is a research project that uses insights from theoretical computer science to delineate the notions of diversity and representation. Currently, in the context of multiwinner elections, we observe that:
 * just like correlation does not imply causation, diversity does not imply representation (and vice-versa).
 * on the surface, diversity and representation in multiwinner elections may seem mathematically equivalent just like the vertex cover problem on *d*-regular hypergraphs and on *k*-uniform hypergraphs, respectively. However, on zooming in, these are as different as the vertex cover problem on *d*-regular hypergraphs and on *k*-uniform hypergraphs, respectively. 
 
-Overall, the vision is to extrapolate this understanding to a more general setting.
+Overall, the vision is to extrapolate this understanding to a more general setting and more importantly, understand about the origins of DRU.
 
 #### Why care about DRU?
 The need to reduce inequality is ubiquitous. At least three of the United Nations’ Sustainable Development Goals directly focus on this aim. However, the incorrect conflation of diversity and representation may be doing more harm than good. For instance, a [paper](https://www.nature.com/articles/s41586-021-03788-6) published in Nature and a [resolution](https://www.brown.senate.gov/newsroom/press/release/brown-portman-introduce-rooney-rule-resolution-to-increase-minority-representation-in-the-private-sector) presented in the United States Senate incorrectly conflate these two terms. Hence, in the pursuit to reduce inequality, DRU intends to highlight the importance of delineating diversity and representation. Overall, if you care about reducing inequality or fair AI or responsible AI, this universe will interest you. (If you are a technical geek, it may be an added reason!!)
