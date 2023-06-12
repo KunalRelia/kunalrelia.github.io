@@ -4,6 +4,7 @@ title: DiRe Research Universe
 subtitle: D.R.U.
 ---
 
+<img src="https://github.com/KunalRelia/kunalrelia.github.io/blob/master/img/DRU-whole.png"  width="40%" height="30%" class="center">
 
 <sup><sub>Disclaimer: Any similarity or resemblance of the project’s name to a certain cinematic universe is purely non-coincidental. 
   That said, I acknowledge that I personally have no idea about what goes on in MCU or DCU. 
