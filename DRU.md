@@ -38,7 +38,7 @@ Specifically, what sort of barriers are we talking about? How can we overcome su
 #### 1.4 Future Plan
 
 **Phase ZERO - The Origin**: 
-While the work on Phase Three nears its completion, DRU's fourth phase, being labeled as Phase ZERO, is already in the pipeline. Releasing the papers in the previous phases, especially Phase 3, was like putting cart before the horse. This means that Phase ZERO, a prequel, will propose a theory (with potentially some empirical backing, if needed) that highlights the reasons why DRU exists. Stay tuned for updates!
+While the work on Phase Three nears its completion, DRU's fourth phase, being labeled as Phase ZERO, is already in the pipeline. Releasing the papers in the previous phases, especially Phase 3, was like putting cart before the horse. This means that Phase ZERO, a prequel, will propose a theory (with potentially some empirical backing, if needed) that highlights the reasons why DRU exists. Stay tuned for updates on this Big Bang of DRU!
 
 ---
 ## 2. Releases
