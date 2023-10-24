@@ -33,7 +33,7 @@ At a high level, Phase Two of DRU extended the DiRe committee paper [1] from two
 #### 1.3 Phase Three - A Result
 Having established the relationship between DiRe Committees and the vertex cover problem in Phase Two, DRU evolves towards exploiting this relationship to overcome barriers that delay our progress in reaching the goal of finding DiRe committees and broadly, reducing inequality. 
 
-Specifically, what sort of barriers are we talking about? How can we overcome such barriers? Does a solution here have an impact on domains not related to reducing inequality? The **new** release [4] answers these and more such questions.
+Specifically, what sort of barriers are we talking about? How can we overcome such barriers? Does a solution here have an impact on domains not related to reducing inequality? The **new** release [4] answers these and more such questions by discovering an unconditional deterministic polynomial-time algorithm for the vertex cover problem on unweighted simple connected graphs.
 
 #### 1.4 Future Plan
 
