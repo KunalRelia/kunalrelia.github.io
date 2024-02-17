@@ -58,7 +58,7 @@ Pre-print, 2022. [link](https://arxiv.org/pdf/2211.13217.pdf)
 
 **[4]** On Efficient Computation of DiRe Committees. <br/>
 ***Relia, K.*** <br/>
-Pre-print, 2024. [link](https://kunalrelia.github.io/img/AlgoVC.pdf), [Slides 1](https://docs.google.com/presentation/d/1FJscULC9PZA4am6KJJgP6V1v2YPTrrPB/edit?usp=sharing&ouid=116854247679466528662&rtpof=true&sd=true), [Slides 2](https://docs.google.com/presentation/d/10bKCa4lX0fwvEVpaDMJ_YGmcVDFO_kqb/edit?usp=sharing&ouid=116854247679466528662&rtpof=true&sd=true). <br/>
+Pre-print, 2024. [link](https://kunalrelia.github.io/img/AlgoVC_v2.pdf), [Slides 1](https://docs.google.com/presentation/d/1FJscULC9PZA4am6KJJgP6V1v2YPTrrPB/edit?usp=sharing&ouid=116854247679466528662&rtpof=true&sd=true), [Slides 2](https://docs.google.com/presentation/d/10bKCa4lX0fwvEVpaDMJ_YGmcVDFO_kqb/edit?usp=sharing&ouid=116854247679466528662&rtpof=true&sd=true). <br/>
 
 **[5]** Unnamed Phase ZERO release. <br/>
 AY 2025-26
