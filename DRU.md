@@ -33,12 +33,12 @@ At a high level, Phase Two of DRU extended the DiRe committee paper [1] from two
 #### 1.3 Phase Three - A Result
 Having established the relationship between DiRe Committees and the vertex cover problem in Phase Two, DRU evolves towards exploiting this relationship to overcome barriers that delay our progress in reaching the goal of finding DiRe committees and broadly, reducing inequality. 
 
-Specifically, what sort of barriers are we talking about? How can we overcome such barriers? Does a solution here have an impact on domains not related to reducing inequality? The **new** release [4] answers these and more such questions by discovering an unconditional deterministic polynomial-time algorithm for an NP-complete problem, namely the vertex cover problem on unweighted simple connected graphs.
+Specifically, what sort of barriers are we talking about? How can we overcome such barriers? Does a solution here have an impact on domains not related to reducing inequality? Part I of a **new** release [4] moves towards answering these and more such questions by discovering an (intermediate version of) an unconditional deterministic polynomial-time algorithm for an NP-complete problem, namely the vertex cover problem on unweighted simple connected graphs.
 
 #### 1.4 Future Plan
 
 **Phase ZERO - The Origin**: 
-Even before the work on Phase Three neared its completion, DRU's fourth phase, being labeled as Phase ZERO, was already in the pipeline. Releasing the papers in the previous phases, especially Phase 3, was like putting cart before the horse. This means that Phase ZERO, a prequel, will propose a theory (with potentially some empirical backing, if needed) that highlights the reasons why DRU exists. Stay tuned for updates on this Big Bang of DRU!
+Even before the work on Phase Three nears its completion, DRU's fourth phase, being labeled as Phase ZERO, is already in the pipeline. Releasing the papers in the previous phases, especially Phase 3, was like putting the cart before the horse. This means that Phase ZERO, a prequel, will propose a theory (with potentially some empirical backing, if needed) that highlights the reasons why DRU exists. Stay tuned for updates on this Big Bang of DRU!
 
 ---
 ## 2. Releases
@@ -56,7 +56,7 @@ Pre-print, 2022. [link](https://arxiv.org/pdf/2211.12820.pdf)
 ***Relia, K.*** <br/>
 Pre-print, 2022. [link](https://arxiv.org/pdf/2211.13217.pdf)
 
-**[4]** On Efficient Computation of DiRe Committees. <br/>
+**[4.1]** On Efficient Computation of DiRe Committees. <br/>
 ***Relia, K.*** <br/>
 Pre-print, 2024. [link](https://kunalrelia.github.io/img/AlgoVC_v2.pdf), [Slides 1](https://docs.google.com/presentation/d/1FJscULC9PZA4am6KJJgP6V1v2YPTrrPB/edit?usp=sharing&ouid=116854247679466528662&rtpof=true&sd=true), [Slides 2](https://docs.google.com/presentation/d/10bKCa4lX0fwvEVpaDMJ_YGmcVDFO_kqb/edit?usp=sharing&ouid=116854247679466528662&rtpof=true&sd=true). <br/>
 
@@ -64,7 +64,7 @@ Pre-print, 2024. [link](https://kunalrelia.github.io/img/AlgoVC_v2.pdf), [Slides
 AY 2025-26
 
 ---
-## 3. Acknowledgement
+## 3. Acknowledgment
 ---
 The universe was co-produced by (a.k.a. research was generously co-supported by) Julia Stoyanovich’s NSF grants. 
 
