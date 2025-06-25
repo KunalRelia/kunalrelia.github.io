@@ -33,7 +33,7 @@ At a high level, Phase Two of DRU extended the DiRe committee paper [1] from two
 #### 1.3 Phase Three - A Result
 Having established the relationship between DiRe Committees and the vertex cover problem in Phase Two, DRU evolves towards exploiting this relationship to overcome barriers that delay our progress in reaching the goal of finding DiRe committees and, broadly, reducing inequality. 
 
-Specifically, what sort of barriers are we talking about? How can we overcome such barriers? Does a solution here have an impact on domains not related to reducing inequality? Part I of a **new** release [4] moves towards answering these and more such questions by discovering a new data structure (termed "represents table") whose unique properties, in turn, are helping in the discovery of an unconditional deterministic polynomial-time algorithm for an NP-complete problem, namely the vertex cover problem on unweighted simple 3-regular 2-edge-connected graphs.
+Specifically, what sort of barriers are we talking about? How can we overcome such barriers? Does a solution here have an impact on domains not related to reducing inequality? Part I of a **new** release [4.1] moves towards answering these and more such questions by discovering a new data structure (termed "represents table") whose unique properties, in turn, are helping in the discovery of an unconditional deterministic polynomial-time algorithm for an NP-complete problem, namely the vertex cover problem on cubic bridgeless graphs [4.2].
 
 #### 1.4 Future Plan
 
@@ -59,6 +59,10 @@ Pre-print, 2022. [link](https://arxiv.org/pdf/2211.13217.pdf)
 **[4.1]** On Efficient Computation of DiRe Committees. <br/>
 ***Relia, K.*** <br/>
 Pre-print, 2024. [link](https://kunalrelia.github.io/img/AlgoVC_v2.pdf), [Slides 1](https://docs.google.com/presentation/d/1FJscULC9PZA4am6KJJgP6V1v2YPTrrPB/edit?usp=sharing&ouid=116854247679466528662&rtpof=true&sd=true), [Slides 2](https://docs.google.com/presentation/d/10bKCa4lX0fwvEVpaDMJ_YGmcVDFO_kqb/edit?usp=sharing&ouid=116854247679466528662&rtpof=true&sd=true). <br/>
+
+**[4.2]** On the Computational Complexity of the Vertex Cover Problem on Cubic Bridgeless Graphs. <br/>
+***Relia, K.*** <br/>
+Pre-print, 2025. [link](https://kunalrelia.github.io/DRU/) <br/>
 
 **[5]** Unnamed Phase ZERO release. <br/>
 AY 2025-26
