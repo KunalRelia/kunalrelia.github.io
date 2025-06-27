@@ -62,7 +62,7 @@ Pre-print, 2024. [link](https://kunalrelia.github.io/img/AlgoVC_v2.pdf), [Slides
 
 **[4.2]** On the Computational Complexity of the Vertex Cover Problem on Cubic Bridgeless Graphs. <br/>
 ***Relia, K.*** <br/>
-Pre-print, 2025. [link](https://kunalrelia.github.io/DRU/) <br/>
+Pre-print, 2025. [link](https://kunalrelia.github.io/img/VCCBG.pdf) <br/>
 
 **[5]** Unnamed Phase ZERO release. <br/>
 AY 2025-26
