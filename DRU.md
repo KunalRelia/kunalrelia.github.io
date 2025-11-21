@@ -45,23 +45,23 @@ Even before the work on Phase Three nears its completion, DRU's fourth phase, be
 ---
 
 **[1]** *DiRe Committee*: Diversity and Representation Constraints in Multiwinner Elections. <br/>
-***Relia, K.*** <br/>
+***R.*** <br/>
 Proceedings of the Thirty-First International Joint Conference on Artificial Intelligence, IJCAI-22. [link](https://doi.org/10.24963/ijcai.2022/714)
 
 **[2]** Fairly Allocating Utility in Constrained Multiwinner Elections.  <br/>
-***Relia, K.*** <br/>
+***R.*** <br/>
 Pre-print, 2022. [link](https://arxiv.org/pdf/2211.12820.pdf)
 
 **[3]** On the Complexity of Finding a Diverse and Representative Committee using a Monotone, Separable Positional Multiwinner Voting Rule.  <br/>
-***Relia, K.*** <br/>
+***R.*** <br/>
 Pre-print, 2022. [link](https://arxiv.org/pdf/2211.13217.pdf)
 
 **[4.1]** On Efficient Computation of DiRe Committees. <br/>
-***Relia, K.*** <br/>
+***R.*** <br/>
 Pre-print, 2024. [link](https://arxiv.org/pdf/2402.19365.pdf), [Slides 1](https://docs.google.com/presentation/d/1FJscULC9PZA4am6KJJgP6V1v2YPTrrPB/edit?usp=sharing&ouid=116854247679466528662&rtpof=true&sd=true), [Slides 2](https://docs.google.com/presentation/d/10bKCa4lX0fwvEVpaDMJ_YGmcVDFO_kqb/edit?usp=sharing&ouid=116854247679466528662&rtpof=true&sd=true). <br/>
 
 **[4.2]** On the Computational Complexity of the Vertex Cover Problem on Cubic Bridgeless Graphs. <br/>
-***Relia, K.*** <br/>
+***R.*** <br/>
 *We discover that VC-CBG (or VCCBG) is (i) NP-complete and (ii) in P.* <br/>
 Pre-print, 2025. [link](https://kunalrelia.github.io/img/VCBG.pdf) <br/>
 
