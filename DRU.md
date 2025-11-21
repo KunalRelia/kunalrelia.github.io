@@ -62,7 +62,7 @@ Pre-print, 2024. [link](https://arxiv.org/pdf/2402.19365.pdf), [Slides 1](https:
 
 **[4.2]** On the Computational Complexity of the Vertex Cover Problem on Cubic Bridgeless Graphs. <br/>
 ***K. Relia.*** <br/>
-*We discover that VC-CBG (or VCCBG) is (i) NP-complete and (ii) in P.* <br/>
+*We discover that VC-CBG (also called VCCBG but not VCBG) is (i) NP-complete and (ii) in P.* <br/>
 Pre-print, 2025. [link](https://kunalrelia.github.io/img/VCBG.pdf) <br/>
 
 **[5]** Unnamed Phase ZERO release. <br/>
