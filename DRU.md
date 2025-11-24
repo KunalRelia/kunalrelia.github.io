@@ -41,7 +41,7 @@ Specifically, what sort of barriers are we talking about? How can we overcome su
 Even before the work on Phase Three nears its completion, DRU's fourth phase, being labeled as Phase ZERO, is already in the pipeline. Releasing the papers in the previous phases, especially Phase 3, was like putting the cart before the horse. This means that Phase ZERO, a prequel, will propose a theory (with potentially some empirical backing, if needed) that highlights the reasons why DRU exists. Stay tuned for updates on this Big Bang of DRU!
 
 
-*A ~17-minute video that discusses phase-wise evolution of DRU and, in particular, development of Phase 3, can be found [here](https://www.youtube.com/watch?v=UY-EEAB1tMI). (recorded: August 16, 2024)*
+*A ~17-minute video that provides a brief overview of phase-wise evolution of DRU and, in particular, development of Phase 3, can be found [here](https://www.youtube.com/watch?v=UY-EEAB1tMI). (recorded: August 16, 2024)*
 
 ---
 ## 2. Releases
