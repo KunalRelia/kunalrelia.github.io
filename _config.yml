@@ -107,7 +107,7 @@ url-pretty: "kunalrelia.com"  # eg. "deanattali.com/beautiful-jekyll"
 #gtag: ""
 
 # Fill in your Google Analytics ID to track your website using GA
-#google_analytics: ""
+google_analytics: "G-QNZP4QD418"
 
 # Google Tag Manager ID
 #gtm: ""
