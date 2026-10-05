@@ -10,7 +10,7 @@ subtitle:
 
 **[W4]** On the Computational Complexity of the Vertex Cover Problem on Cubic Bridgeless Graphs.  <br/>
 ***K. Relia.*** <br/>
-Working paper, 2025. [in submission](https://kunalrelia.github.io/img/VCBG.pdf) 
+Working paper, 2026. [pre-print](https://kunalrelia.github.io/img/VCBG.pdf) 
 
 **[W3]** On Efficient Computation of DiRe Committees.  <br/>
 ***K. Relia.*** <br/>
