@@ -71,7 +71,7 @@ Pre-print, 2026. [link](https://kunalrelia.github.io/img/VCBG.pdf) <br/>
 
 
 **[5]** Unnamed Phase ZERO release. <br/>
-AY 2025-26
+AY 2026-27
 
 ---
 ## 3. Acknowledgment
