@@ -67,7 +67,8 @@ Pre-print, 2024. [link](https://arxiv.org/pdf/2402.19365.pdf), [Slides 1](https:
 ***K. Relia.*** <br/>
 *We discover that VC-CBG (also called VCCBG but not VCBG) is (i) NP-complete and (ii) in P.* <br/>
 A [thought experiment](https://kunalrelia.github.io/img/ThoughtExperiment.pdf). <br/>
-Pre-print, 2026. [link](https://kunalrelia.github.io/img/VCBG.pdf) <br/>
+A [blog post](https://kunalrelia.github.io/img/Blog-Write-Up.pdf). <br/>
+Pre-print, 2026. [link](https://kunalrelia.github.io/img/VCCBG.pdf) <br/>
 
 
 **[5]** Unnamed Phase ZERO release. <br/>
